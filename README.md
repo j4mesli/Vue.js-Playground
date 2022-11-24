@@ -1,5 +1,9 @@
 # Vue3-Projects
-A repository containing all the different pet projects I created using Vue3, with links to said projects provided where applicable
+A repository containing all the different pet projects I created using Vue3, with links to said projects provided where applicable.
+
+- ### Navigate
+  - <a href="Reaction-Timer-Game">Reaction-Timer-Game</a>
+  - <a href="My-Planner">My-Planner</a>
 
 ## Reaction-Timer-Game
 
