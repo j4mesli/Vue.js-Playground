@@ -1,0 +1,16 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Create new homepage banner ASAP",
+      "details": "Lorem Ipsum Dolor Sit Amet",
+      "complete": false
+    },
+    {
+      "id": 2,
+      "title": "Make marketing email",
+      "details": "Lorem Ipsum Dolor",
+      "complete": true
+    }
+  ]
+}
