@@ -9,7 +9,7 @@ A game based off of <a href="https://humanbenchmark.com/">humanbenchmark</a> tha
 
 ## My-Planner
 
-A localized planner created with Vue router that allows for the user to create, modify, delete, and update projects that they wish to document. The project also utilizes a filtered navigation bar that allows for the user to display only certain types of projects (ex: only display completed or in progress projects). 
+A localized planner created with Vue router that allows for the user to create, modify, delete, and update projects that they wish to document. The project also utilizes a filtered navigation bar that allows for the user to display only certain types of projects (ex: only display completed or in progress projects). Unfortunately, due to the nature of the project allowing for total user control/administration, the project is not able to be hosted on a remote server. However, one can download and run the project themselves to view its full capabilites! 
 
 <strong>NOTE: THIS PROJECT RELIES ON AN FAKE REST API RAN WITH THE Node.js PACKAGE 'json-server'. TO INSTANTIATE: </strong>
 ```
