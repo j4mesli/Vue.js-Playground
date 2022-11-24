@@ -2,8 +2,8 @@
 A repository containing all the different pet projects I created using Vue3, with links to said projects provided where applicable.
 
 - ### Navigate
-  - <a href="https://github.com/j4mesli/Vue3-Projects/edit/main/README.md#reaction-timer-game">Reaction-Timer-Game</a>
-  - <a href="https://github.com/j4mesli/Vue3-Projects/edit/main/README.md#my-planner">My-Planner</a>
+  - <a href="https://github.com/j4mesli/Vue3-Projects#reaction-timer-game">Reaction-Timer-Game</a>
+  - <a href="https://github.com/j4mesli/Vue3-Projects#my-planner">My-Planner</a>
 
 ## Reaction-Timer-Game
 
