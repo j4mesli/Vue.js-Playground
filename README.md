@@ -2,9 +2,9 @@
 A repository containing all the different pet projects I created using Vue.js, with links to said projects provided where applicable.
 
 - ### Navigate
-  - <a href="https://github.com/j4mesli/Vue3-Projects#reaction-timer-game">Reaction Time Minigame</a>
-  - <a href="https://github.com/j4mesli/Vue3-Projects#my-planner">My Planner/Tracker</a>
-  - <a href="https://github.com/j4mesli/Vue3-Projects#chatrbox-live">chatrbox-live chatroom</a>
+  - <a href="#reaction-timer-game">Reaction Time Minigame</a>
+  - <a href="#my-planner">My Planner/Tracker</a>
+  - <a href="#chatrbox-live">chatrbox-live chatroom</a>
 
 ## Reaction-Timer-Game
 
