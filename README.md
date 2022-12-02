@@ -1,5 +1,5 @@
 # Vue3-Projects
-A repository containing all the different pet projects I created using Vue3, with links to said projects provided where applicable.
+A repository containing all the different pet projects I created using Vue.js, with links to said projects provided where applicable.
 
 - ### Navigate
   - <a href="https://github.com/j4mesli/Vue3-Projects#reaction-timer-game">Reaction Time Minigame</a>
