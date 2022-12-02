@@ -1,7 +1,7 @@
 <template>
   <h1>The Pomodoro Method</h1>
-  <Tomato v-if="start"/>
   <About />
+  <Tomato :change="change" v-if="start"/>
   <Buttons />
 </template>
 
@@ -18,6 +18,7 @@ export default {
   },
   setup() {
     const start = ref(true);
+    const change = ref(false);
 
     return { start };
   }
