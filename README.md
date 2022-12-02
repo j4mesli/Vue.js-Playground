@@ -2,8 +2,9 @@
 A repository containing all the different pet projects I created using Vue3, with links to said projects provided where applicable.
 
 - ### Navigate
-  - <a href="https://github.com/j4mesli/Vue3-Projects#reaction-timer-game">Reaction-Timer-Game</a>
-  - <a href="https://github.com/j4mesli/Vue3-Projects#my-planner">My-Planner</a>
+  - <a href="https://github.com/j4mesli/Vue3-Projects#reaction-timer-game">Reaction Time Minigame</a>
+  - <a href="https://github.com/j4mesli/Vue3-Projects#my-planner">My Planner/Tracker</a>
+  - <a href="https://github.com/j4mesli/Vue3-Projects#chatrbox-live">chatrbox-live chatroom</a>
 
 ## Reaction-Timer-Game
 
@@ -28,3 +29,12 @@ A localized planner created with Vue router that allows for the user to create, 
 - After both terminals finish executing their respective commands, the project is live at the server Vue3 opened!
   ex: http://localhost:8080
 ```
+
+## chatrbox-live
+
+<a href="https://tutorial-vue-firebase-si-9ae38.web.app/">Visit my site here!</a>
+
+
+A real-time chatroom made with Vue.js on the frontend and Node.js &amp; Firebase as the BaaS. Users create an account to access the chatroom, where they send messages in a global chat in real time. Complete with profanity filter.
+
+This static site utilizes Vue.js's Router function to allow for dynamic routing for my static site. By registering users to the Firebase NoSQL database, the site can determine whether or not someone is logged in and displays the proper elements as such.
