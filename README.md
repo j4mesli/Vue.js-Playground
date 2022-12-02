@@ -2,9 +2,9 @@
 A repository containing all the different pet projects I created using Vue.js, with links to said projects provided where applicable.
 
 - ### Navigate
-  - <a href="#reaction-timer-game">Reaction Time Minigame</a>
+  - <a href="#reaction-timer-game">Reaction Time Minigame</a> | <a href="https://reactiontimergame.onrender.com">Link</a>
   - <a href="#my-planner">My Planner/Tracker</a>
-  - <a href="#chatrbox-live">chatrbox-live chatroom</a>
+  - <a href="#chatrbox-live">chatrbox-live chatroom</a> | <a href="https://tutorial-vue-firebase-si-9ae38.web.app">Link</a>
 
 ## Reaction-Timer-Game
 
