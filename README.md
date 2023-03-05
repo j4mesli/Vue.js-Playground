@@ -1,4 +1,4 @@
-# Vue.js-Projects
+# Vue.js-Playground
 A repository containing all the different pet projects I created using Vue.js, with links to said projects provided where applicable.
 
 - ### Navigate
