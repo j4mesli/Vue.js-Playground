@@ -10,7 +10,7 @@
     "bad-words": "^3.0.4",
     "core-js": "^3.8.3",
     "date-fns": "^2.29.3",
-    "firebase": "^9.14.0",
+    "firebase": "^10.9.0",
     "vue": "^3.2.13",
     "vue-router": "^4.0.3"
   },
